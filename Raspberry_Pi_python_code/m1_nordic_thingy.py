@@ -25,7 +25,7 @@ LOGIN_INFO = {
     'api_key': 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 }
 
-ENDPOINT = 'https://api-sandbox.mediumone.com'
+ENDPOINT = 'https://api.mediumone.com'
 DEVICE_ADDR = 'ab:cd:ef:gh:ij:kl'
 INTERVAL_SECONDS = 10
 SLEEP_ON_RESET = 5
